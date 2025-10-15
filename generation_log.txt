@@ -1,0 +1,724 @@
+[2025-10-12 19:22:14] ============================================================
+[2025-10-12 19:22:14] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-12 19:22:14] ============================================================
+[2025-10-12 19:22:14] 📁 Upload folder: uploads
+[2025-10-12 19:22:14] 🎬 Video folder: generated
+[2025-10-12 19:22:14] 📋 Metadata folder: metadata
+[2025-10-12 19:22:14] ============================================================
+[2025-10-12 19:22:45] 📨 Request from user: useerid1, reel_id: eeb6bb3a-59c6-4073-8a81-fabc15f8379d
+[2025-10-12 19:22:46] 💾 Metadata saved: eeb6bb3a-59c6-4073-8a81-fabc15f8379d.json
+[2025-10-12 19:22:46] 🚀 Background task started for reel_id: eeb6bb3a-59c6-4073-8a81-fabc15f8379d
+[2025-10-12 19:22:46] 🎬 Background thread started for reel_id: eeb6bb3a-59c6-4073-8a81-fabc15f8379d
+[2025-10-12 19:22:47] 🎬 Starting Veo 3 generation for user: useerid1
+[2025-10-12 19:22:47] 🎥 Processing scene 1/3...
+[2025-10-12 19:22:47] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-12 19:22:51] ⏳ Scene 1 polling... 10s
+[2025-10-12 19:23:02] ⏳ Scene 1 polling... 20s
+[2025-10-12 19:23:13] ⏳ Scene 1 polling... 30s
+[2025-10-12 19:23:24] ⏳ Scene 1 polling... 40s
+[2025-10-12 19:23:34] ⏳ Scene 1 polling... 50s
+[2025-10-12 19:23:45] ⏳ Scene 1 polling... 60s
+[2025-10-12 19:23:57] ✅ Scene 1 completed: scene_useerid1_1_1760277237.mp4
+[2025-10-12 19:23:57] 🎥 Processing scene 2/3...
+[2025-10-12 19:23:57] ⚙️  Generating scene 2 with Veo 3 Fast...
+[2025-10-12 19:24:00] ⏳ Scene 2 polling... 10s
+[2025-10-12 19:24:11] ⏳ Scene 2 polling... 20s
+[2025-10-12 19:24:21] ⏳ Scene 2 polling... 30s
+[2025-10-12 19:24:32] ⏳ Scene 2 polling... 40s
+[2025-10-12 19:24:42] ⏳ Scene 2 polling... 50s
+[2025-10-12 19:24:55] ✅ Scene 2 completed: scene_useerid1_2_1760277295.mp4
+[2025-10-12 19:24:55] 🎥 Processing scene 3/3...
+[2025-10-12 19:24:55] ⚙️  Generating scene 3 with Veo 3 Fast...
+[2025-10-12 19:24:58] ⏳ Scene 3 polling... 10s
+[2025-10-12 19:25:09] ⏳ Scene 3 polling... 20s
+[2025-10-12 19:25:19] ⏳ Scene 3 polling... 30s
+[2025-10-12 19:25:30] ⏳ Scene 3 polling... 40s
+[2025-10-12 19:25:41] ⏳ Scene 3 polling... 50s
+[2025-10-12 19:25:52] ⏳ Scene 3 polling... 60s
+[2025-10-12 19:26:03] ✅ Scene 3 completed: scene_useerid1_3_1760277363.mp4
+[2025-10-12 19:26:03] 🔗 Concatenating clips into final video...
+[2025-10-12 19:26:12] 🎉 Final video created: final_video_useerid1_1760277366.mp4 (15.0s)
+[2025-10-12 19:26:12] 💾 Metadata saved: eeb6bb3a-59c6-4073-8a81-fabc15f8379d.json
+[2025-10-12 19:26:12] ✅ Background task completed successfully for reel_id: eeb6bb3a-59c6-4073-8a81-fabc15f8379d
+[2025-10-12 19:26:12] 🗑️  Removed temp file: uploads\useerid1_img_1_1760277165.jpg
+[2025-10-12 19:26:12] 🗑️  Removed temp file: uploads\useerid1_img_2_1760277165.jpg
+[2025-10-12 19:26:12] 🗑️  Removed temp file: uploads\useerid1_img_3_1760277165.jpg
+[2025-10-12 19:38:00] ============================================================
+[2025-10-12 19:38:00] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-12 19:38:00] ============================================================
+[2025-10-12 19:38:00] 📁 Upload folder: uploads
+[2025-10-12 19:38:00] 🎬 Video folder: generated
+[2025-10-12 19:38:00] 📋 Metadata folder: metadata
+[2025-10-12 19:38:00] ============================================================
+[2025-10-12 19:38:17] ============================================================
+[2025-10-12 19:38:17] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-12 19:38:17] ============================================================
+[2025-10-12 19:38:17] 📁 Upload folder: uploads
+[2025-10-12 19:38:17] 🎬 Video folder: generated
+[2025-10-12 19:38:17] 📋 Metadata folder: metadata
+[2025-10-12 19:38:17] ============================================================
+[2025-10-12 19:44:47] ============================================================
+[2025-10-12 19:44:47] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-12 19:44:47] ============================================================
+[2025-10-12 19:44:47] 📁 Upload folder: uploads
+[2025-10-12 19:44:47] 🎬 Video folder: generated
+[2025-10-12 19:44:47] 📋 Metadata folder: metadata
+[2025-10-12 19:44:47] ============================================================
+[2025-10-13 10:16:09] ============================================================
+[2025-10-13 10:16:09] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-13 10:16:09] ============================================================
+[2025-10-13 10:16:09] 📁 Upload folder: uploads
+[2025-10-13 10:16:09] 🎬 Video folder: generated
+[2025-10-13 10:16:09] 📋 Metadata folder: metadata
+[2025-10-13 10:16:09] ============================================================
+[2025-10-13 11:05:30] ============================================================
+[2025-10-13 11:05:30] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-13 11:05:30] ============================================================
+[2025-10-13 11:05:30] 📁 Upload folder: uploads
+[2025-10-13 11:05:30] 🎬 Video folder: generated
+[2025-10-13 11:05:30] 📋 Metadata folder: metadata
+[2025-10-13 11:05:30] ============================================================
+[2025-10-13 12:59:42] ============================================================
+[2025-10-13 12:59:42] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-13 12:59:42] ============================================================
+[2025-10-13 12:59:42] 📁 Upload folder: uploads
+[2025-10-13 12:59:42] 🎬 Video folder: generated
+[2025-10-13 12:59:42] 📋 Metadata folder: metadata
+[2025-10-13 12:59:42] ============================================================
+[2025-10-13 14:55:02] ============================================================
+[2025-10-13 14:55:02] 🚀 SERVER STARTING - FILE-BASED STORAGE
+[2025-10-13 14:55:02] ============================================================
+[2025-10-13 14:55:02] 📁 Upload folder: uploads
+[2025-10-13 14:55:02] 🎬 Video folder: generated
+[2025-10-13 14:55:02] 📋 Metadata folder: metadata
+[2025-10-13 14:55:02] ============================================================
+[2025-10-13 15:35:39] ============================================================
+[2025-10-13 15:35:39] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 15:35:39] ============================================================
+[2025-10-13 15:35:39] ❌ Connection pool not available
+[2025-10-13 15:35:39] ⚠️  Warning: Database initialization failed
+[2025-10-13 15:35:39] ============================================================
+[2025-10-13 15:35:48] ============================================================
+[2025-10-13 15:35:48] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 15:35:48] ============================================================
+[2025-10-13 15:35:48] ❌ Connection pool not available
+[2025-10-13 15:35:48] ⚠️  Warning: Database initialization failed
+[2025-10-13 15:35:48] ============================================================
+[2025-10-13 15:40:35] ============================================================
+[2025-10-13 15:40:35] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 15:40:35] ============================================================
+[2025-10-13 15:40:35] ✅ Database table 'videos' created/verified successfully
+[2025-10-13 15:40:35] ✅ Database initialized successfully
+[2025-10-13 15:40:35] ============================================================
+[2025-10-13 15:40:40] ============================================================
+[2025-10-13 15:40:40] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 15:40:40] ============================================================
+[2025-10-13 15:40:40] ✅ Database table 'videos' created/verified successfully
+[2025-10-13 15:40:40] ✅ Database initialized successfully
+[2025-10-13 15:40:40] ============================================================
+[2025-10-13 15:41:51] 📨 Request from user: useerid1, reel_id: 2032512e-6688-43ba-9df6-b9f5834d030e
+[2025-10-13 15:41:51] 🎬 Background thread started for reel_id: 2032512e-6688-43ba-9df6-b9f5834d030e
+[2025-10-13 15:41:51] 🚀 Background task started for reel_id: 2032512e-6688-43ba-9df6-b9f5834d030e
+[2025-10-13 15:41:51] ❌ Error updating video status: null value in column "user_id" of relation "videos" violates not-null constraint
+DETAIL:  Failing row contains (2, 2032512e-6688-43ba-9df6-b9f5834d030e, null, null, null, null, null, null, null, null, null, PROCESSING, null, 2025-10-13 10:11:51.932471, 2025-10-13 15:41:51.931452, null).
+
+[2025-10-13 15:41:54] 🎬 Starting Veo 3 generation for user: useerid1
+[2025-10-13 15:41:54] 🎥 Processing scene 1/3...
+[2025-10-13 15:41:54] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-13 15:41:58] ⏳ Scene 1 polling... 10s
+[2025-10-13 15:42:09] ⏳ Scene 1 polling... 20s
+[2025-10-13 15:42:20] ⏳ Scene 1 polling... 30s
+[2025-10-13 15:42:30] ⏳ Scene 1 polling... 40s
+[2025-10-13 15:42:41] ⏳ Scene 1 polling... 50s
+[2025-10-13 15:42:52] ⏳ Scene 1 polling... 60s
+[2025-10-13 15:43:05] ✅ Scene 1 completed: scene_useerid1_1_1760350385.mp4
+[2025-10-13 15:43:05] 🎥 Processing scene 2/3...
+[2025-10-13 15:43:05] ⚙️  Generating scene 2 with Veo 3 Fast...
+[2025-10-13 15:43:09] ⏳ Scene 2 polling... 10s
+[2025-10-13 15:43:21] ⏳ Scene 2 polling... 20s
+[2025-10-13 15:43:32] ⏳ Scene 2 polling... 30s
+[2025-10-13 15:43:42] ⏳ Scene 2 polling... 40s
+[2025-10-13 15:43:53] ⏳ Scene 2 polling... 50s
+[2025-10-13 15:44:04] ✅ Scene 2 completed: scene_useerid1_2_1760350444.mp4
+[2025-10-13 15:44:04] 🎥 Processing scene 3/3...
+[2025-10-13 15:44:04] ⚙️  Generating scene 3 with Veo 3 Fast...
+[2025-10-13 15:44:07] ⏳ Scene 3 polling... 10s
+[2025-10-13 15:44:18] ⏳ Scene 3 polling... 20s
+[2025-10-13 15:44:29] ⏳ Scene 3 polling... 30s
+[2025-10-13 15:44:40] ⏳ Scene 3 polling... 40s
+[2025-10-13 15:44:50] ⏳ Scene 3 polling... 50s
+[2025-10-13 15:45:01] ⏳ Scene 3 polling... 60s
+[2025-10-13 15:45:13] ✅ Scene 3 completed: scene_useerid1_3_1760350513.mp4
+[2025-10-13 15:45:13] 🔗 Concatenating clips into final video...
+[2025-10-13 15:45:23] 🎉 Final video created: final_video_useerid1_1760350516.mp4 (15.0s)
+[2025-10-13 15:45:24] ✅ Video saved to database: 2032512e-6688-43ba-9df6-b9f5834d030e
+[2025-10-13 15:45:24] 🗑️  Removed local video file: generated\final_video_useerid1_1760350516.mp4
+[2025-10-13 15:45:24] ✅ Background task completed successfully for reel_id: 2032512e-6688-43ba-9df6-b9f5834d030e
+[2025-10-13 15:45:24] 🗑️  Removed temp file: uploads\useerid1_img_1_1760350311.jpg
+[2025-10-13 15:45:24] 🗑️  Removed temp file: uploads\useerid1_img_2_1760350311.jpg
+[2025-10-13 15:45:24] 🗑️  Removed temp file: uploads\useerid1_img_3_1760350311.jpg
+[2025-10-13 16:43:10] ============================================================
+[2025-10-13 16:43:10] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 16:43:10] ============================================================
+[2025-10-13 16:43:11] ✅ Database table 'videos' created/verified successfully
+[2025-10-13 16:43:11] ✅ Database initialized successfully
+[2025-10-13 16:43:11] ============================================================
+[2025-10-13 16:51:50] 📨 Request from user: useerid1, reel_id: 868cf0ab-a371-4ad1-af0b-bebf131eab2a
+[2025-10-13 16:51:50] 🎬 Background thread started for reel_id: 868cf0ab-a371-4ad1-af0b-bebf131eab2a
+[2025-10-13 16:51:50] ❌ Error updating video status: null value in column "user_id" of relation "videos" violates not-null constraint
+DETAIL:  Failing row contains (5, 868cf0ab-a371-4ad1-af0b-bebf131eab2a, null, null, null, null, null, null, null, null, null, PROCESSING, null, 2025-10-13 11:21:50.967837, 2025-10-13 16:51:50.967246, null).
+
+[2025-10-13 16:51:52] 🎬 Starting Veo 3 generation for user: useerid1
+[2025-10-13 16:51:52] 🎥 Processing scene 1/3...
+[2025-10-13 16:51:52] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-13 16:51:55] ⏳ Scene 1 polling... 10s
+[2025-10-13 16:52:06] ⏳ Scene 1 polling... 20s
+[2025-10-13 16:52:16] ⏳ Scene 1 polling... 30s
+[2025-10-13 16:52:27] ⏳ Scene 1 polling... 40s
+[2025-10-13 16:52:37] ⏳ Scene 1 polling... 50s
+[2025-10-13 16:52:47] ⏳ Scene 1 polling... 60s
+[2025-10-13 16:52:59] ✅ Scene 1 completed: scene_useerid1_1_1760354579.mp4
+[2025-10-13 16:52:59] 🎥 Processing scene 2/3...
+[2025-10-13 16:52:59] ⚙️  Generating scene 2 with Veo 3 Fast...
+[2025-10-13 16:53:02] ⏳ Scene 2 polling... 10s
+[2025-10-13 16:53:12] ⏳ Scene 2 polling... 20s
+[2025-10-13 16:53:22] ⏳ Scene 2 polling... 30s
+[2025-10-13 16:53:33] ⏳ Scene 2 polling... 40s
+[2025-10-13 16:53:43] ⏳ Scene 2 polling... 50s
+[2025-10-13 16:53:54] ⏳ Scene 2 polling... 60s
+[2025-10-13 16:54:04] ⏳ Scene 2 polling... 70s
+[2025-10-13 16:54:15] ✅ Scene 2 completed: scene_useerid1_2_1760354655.mp4
+[2025-10-13 16:54:15] 🎥 Processing scene 3/3...
+[2025-10-13 16:54:15] ⚙️  Generating scene 3 with Veo 3 Fast...
+[2025-10-13 16:54:18] ⏳ Scene 3 polling... 10s
+[2025-10-13 16:54:29] ⏳ Scene 3 polling... 20s
+[2025-10-13 16:54:39] ⏳ Scene 3 polling... 30s
+[2025-10-13 16:54:49] ⏳ Scene 3 polling... 40s
+[2025-10-13 16:55:00] ⏳ Scene 3 polling... 50s
+[2025-10-13 16:55:10] ⏳ Scene 3 polling... 60s
+[2025-10-13 16:55:21] ⏳ Scene 3 polling... 70s
+[2025-10-13 16:55:32] ✅ Scene 3 completed: scene_useerid1_3_1760354732.mp4
+[2025-10-13 16:55:32] 🔗 Concatenating clips into final video...
+[2025-10-13 16:55:47] 🎉 Final video created: final_video_useerid1_1760354735.mp4 (15.0s)
+[2025-10-13 16:55:50] ✅ Video saved to database: 868cf0ab-a371-4ad1-af0b-bebf131eab2a
+[2025-10-13 16:55:50] 🗑️  Removed local video file: generated\final_video_useerid1_1760354735.mp4
+[2025-10-13 16:55:50] ✅ Background task completed successfully for reel_id: 868cf0ab-a371-4ad1-af0b-bebf131eab2a
+[2025-10-13 16:55:50] 🗑️  Removed temp file: uploads\useerid1_img_1_1760354510.jpg
+[2025-10-13 16:55:50] 🗑️  Removed temp file: uploads\useerid1_img_2_1760354510.jpg
+[2025-10-13 16:55:50] 🗑️  Removed temp file: uploads\useerid1_img_3_1760354510.jpg
+[2025-10-13 17:12:09] ============================================================
+[2025-10-13 17:12:09] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 17:12:09] ============================================================
+[2025-10-13 17:12:09] ✅ Database table 'videos' created/verified successfully
+[2025-10-13 17:12:09] ✅ Database initialized successfully
+[2025-10-13 17:12:09] ============================================================
+[2025-10-13 17:13:21] ============================================================
+[2025-10-13 17:13:21] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-13 17:13:21] ============================================================
+[2025-10-13 17:13:21] ✅ Database table 'videos' created/verified successfully
+[2025-10-13 17:13:21] ✅ Database initialized successfully
+[2025-10-13 17:13:21] ============================================================
+[2025-10-14 12:24:17] ============================================================
+[2025-10-14 12:24:17] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 12:24:17] ============================================================
+[2025-10-14 12:24:17] ✅ Database table 'videos' created/verified successfully
+[2025-10-14 12:24:17] ✅ Database initialized successfully
+[2025-10-14 12:24:17] ============================================================
+[2025-10-14 12:24:26] ============================================================
+[2025-10-14 12:24:26] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 12:24:26] ============================================================
+[2025-10-14 12:24:26] ✅ Database table 'videos' created/verified successfully
+[2025-10-14 12:24:26] ✅ Database initialized successfully
+[2025-10-14 12:24:26] ============================================================
+[2025-10-14 12:30:12] ============================================================
+[2025-10-14 12:30:12] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 12:30:12] ============================================================
+[2025-10-14 12:30:12] ✅ Database table 'videos' created/verified successfully
+[2025-10-14 12:30:12] ✅ Database initialized successfully
+[2025-10-14 12:30:12] ============================================================
+[2025-10-14 12:58:17] ============================================================
+[2025-10-14 12:58:17] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 12:58:17] ============================================================
+[2025-10-14 12:58:17] ============================================================
+[2025-10-14 13:02:34] ============================================================
+[2025-10-14 13:02:34] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:02:34] ============================================================
+[2025-10-14 13:02:34] ============================================================
+[2025-10-14 13:02:40] ============================================================
+[2025-10-14 13:02:40] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:02:40] ============================================================
+[2025-10-14 13:02:40] ============================================================
+[2025-10-14 13:07:24] 📨 Request from user: 60d87325-66e4-4081-92a7-6a09c42cded0, reel_id: e652f74a-d8dd-4df9-a5e4-b8dbf2c4699f
+[2025-10-14 13:07:25] ❌ Error creating initial record: relation "videos" does not exist
+LINE 2:                 INSERT INTO videos (
+                                    ^
+
+[2025-10-14 13:12:00] ============================================================
+[2025-10-14 13:12:00] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:12:00] ============================================================
+[2025-10-14 13:12:00] ============================================================
+[2025-10-14 13:15:18] ============================================================
+[2025-10-14 13:15:18] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:15:18] ============================================================
+[2025-10-14 13:15:18] ============================================================
+[2025-10-14 13:15:25] ============================================================
+[2025-10-14 13:15:25] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:15:25] ============================================================
+[2025-10-14 13:15:25] ============================================================
+[2025-10-14 13:22:58] 📨 Request from user: 60d87325-66e4-4081-92a7-6a09c42cded0, reel_id: 2ee6edcb-799a-4d47-bdd9-dbf4580591db
+[2025-10-14 13:23:00] ❌ Error creating initial record: column "aspect_ratio" of relation "video_reels" does not exist
+LINE 3:                     user_id, prompt, aspect_ratio, location_...
+                                             ^
+
+[2025-10-14 13:29:04] ============================================================
+[2025-10-14 13:29:04] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:29:04] ============================================================
+[2025-10-14 13:29:04] ============================================================
+[2025-10-14 13:29:13] ============================================================
+[2025-10-14 13:29:13] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:29:13] ============================================================
+[2025-10-14 13:29:13] ============================================================
+[2025-10-14 13:29:24] ============================================================
+[2025-10-14 13:29:24] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:29:24] ============================================================
+[2025-10-14 13:29:24] ============================================================
+[2025-10-14 13:29:37] ============================================================
+[2025-10-14 13:29:37] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:29:37] ============================================================
+[2025-10-14 13:29:37] ============================================================
+[2025-10-14 13:29:47] ============================================================
+[2025-10-14 13:29:47] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:29:47] ============================================================
+[2025-10-14 13:29:47] ============================================================
+[2025-10-14 13:30:20] 📨 Request from user: 60d87325-66e4-4081-92a7-6a09c42cded0, reel_id: 0c66b52b-3ee4-4e41-b903-eec1fb1e085a
+[2025-10-14 13:30:25] ❌ Error creating initial record: column "model_used" of relation "video_reels" does not exist
+LINE 4:                     model_used, aspect_ratio, estimated_cost...
+                            ^
+
+[2025-10-14 13:31:49] ============================================================
+[2025-10-14 13:31:49] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 13:31:49] ============================================================
+[2025-10-14 13:31:49] ============================================================
+[2025-10-14 13:32:59] 📨 Request from user: 60d87325-66e4-4081-92a7-6a09c42cded0, reel_id: 7eb8a2b8-3dc2-4f63-800c-0926d2c7a4a0
+[2025-10-14 13:33:04] ❌ Error creating initial record: column "video_data" of relation "video_reels" does not exist
+LINE 4:                     video_data, video_format, video_size, vi...
+                            ^
+
+[2025-10-14 15:08:59] ============================================================
+[2025-10-14 15:08:59] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 15:08:59] ============================================================
+[2025-10-14 15:08:59] ============================================================
+[2025-10-14 15:09:18] ============================================================
+[2025-10-14 15:09:18] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 15:09:18] ============================================================
+[2025-10-14 15:09:18] ============================================================
+[2025-10-14 15:09:42] ============================================================
+[2025-10-14 15:09:42] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 15:09:42] ============================================================
+[2025-10-14 15:09:42] ============================================================
+[2025-10-14 15:32:43] ❌ Error getting user videos: column "aspect_ratio" does not exist
+LINE 2:             SELECT id, user_id, prompt, aspect_ratio,
+                                                ^
+HINT:  Perhaps you meant to reference the column "video_reels.aspectRatio".
+
+[2025-10-14 15:32:47] ❌ Error getting user videos: column "aspect_ratio" does not exist
+LINE 2:             SELECT id, user_id, prompt, aspect_ratio,
+                                                ^
+HINT:  Perhaps you meant to reference the column "video_reels.aspectRatio".
+
+[2025-10-14 15:32:50] ❌ Error getting user videos: column "aspect_ratio" does not exist
+LINE 2:             SELECT id, user_id, prompt, aspect_ratio,
+                                                ^
+HINT:  Perhaps you meant to reference the column "video_reels.aspectRatio".
+
+[2025-10-14 15:32:53] ❌ Error getting user videos: column "aspect_ratio" does not exist
+LINE 2:             SELECT id, user_id, prompt, aspect_ratio,
+                                                ^
+HINT:  Perhaps you meant to reference the column "video_reels.aspectRatio".
+
+[2025-10-14 15:33:15] ❌ Error getting user videos: column "aspect_ratio" does not exist
+LINE 2:             SELECT id, user_id, prompt, aspect_ratio,
+                                                ^
+HINT:  Perhaps you meant to reference the column "video_reels.aspectRatio".
+
+[2025-10-14 22:53:11] ============================================================
+[2025-10-14 22:53:11] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 22:53:11] ============================================================
+[2025-10-14 22:53:17] ============================================================
+[2025-10-14 22:53:17] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 22:53:17] ============================================================
+[2025-10-14 23:15:47] ============================================================
+[2025-10-14 23:15:47] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:15:47] ============================================================
+[2025-10-14 23:16:43] ============================================================
+[2025-10-14 23:16:43] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:16:43] ============================================================
+[2025-10-14 23:17:11] ❌ API Error: name 'METADATA_FOLDER' is not defined
+[2025-10-14 23:18:07] ============================================================
+[2025-10-14 23:18:07] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:18:07] ============================================================
+[2025-10-14 23:18:13] ============================================================
+[2025-10-14 23:18:13] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:18:13] ============================================================
+[2025-10-14 23:18:35] 📝 Request data saved to: request_1760464115.json
+[2025-10-14 23:18:35] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:18:35] ❌ Error creating initial record: column "model_used" of relation "video_reels" does not exist
+LINE 4:                     model_used, aspect_ratio, created_at, up...
+                            ^
+
+[2025-10-14 23:18:57] ============================================================
+[2025-10-14 23:18:57] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:18:57] ============================================================
+[2025-10-14 23:19:21] ============================================================
+[2025-10-14 23:19:21] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:19:21] ============================================================
+[2025-10-14 23:19:32] ============================================================
+[2025-10-14 23:19:32] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:19:32] ============================================================
+[2025-10-14 23:19:35] 📝 Request data saved to: request_1760464175.json
+[2025-10-14 23:19:35] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:19:36] ❌ Error creating initial record: column "modelused" of relation "video_reels" does not exist
+LINE 4:                     modelUsed, aspectRatio, created_at, upda...
+                            ^
+
+[2025-10-14 23:19:51] ============================================================
+[2025-10-14 23:19:51] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:19:51] ============================================================
+[2025-10-14 23:19:58] ============================================================
+[2025-10-14 23:19:58] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:19:58] ============================================================
+[2025-10-14 23:20:06] ============================================================
+[2025-10-14 23:20:06] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:20:06] ============================================================
+[2025-10-14 23:20:36] ============================================================
+[2025-10-14 23:20:36] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:20:36] ============================================================
+[2025-10-14 23:21:04] 📝 Request data saved to: request_1760464264.json
+[2025-10-14 23:21:04] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:21:04] ❌ Error creating initial record: column "modelused" of relation "video_reels" does not exist
+LINE 4:                     modelUsed, aspectRatio, created_at, upda...
+                            ^
+
+[2025-10-14 23:22:22] ============================================================
+[2025-10-14 23:22:22] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:22:22] ============================================================
+[2025-10-14 23:22:37] ============================================================
+[2025-10-14 23:22:37] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:22:37] ============================================================
+[2025-10-14 23:22:44] ============================================================
+[2025-10-14 23:22:44] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:22:44] ============================================================
+[2025-10-14 23:22:52] ============================================================
+[2025-10-14 23:22:52] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:22:52] ============================================================
+[2025-10-14 23:23:09] 📝 Request data saved to: request_1760464389.json
+[2025-10-14 23:23:09] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:23:09] ❌ Error creating initial record: null value in column "updated_at" of relation "video_reels" violates not-null constraint
+DETAIL:  Failing row contains (BfPzSgijeDaJ0TVVeTTXVGQxdIu1, PROCESSING, Branding, data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAASwCAYAAACw8J..., data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAASwCAYAAACw8J..., data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAASwCAYAAACw8J..., null, mp4, 0.00, 0, veo-3.0-generate-001, 9:16, 0.0000, null, null, 2025-10-14 23:23:13.599, null, null, 1).
+
+[2025-10-14 23:23:42] ============================================================
+[2025-10-14 23:23:42] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:23:42] ============================================================
+[2025-10-14 23:27:46] 📝 Request data saved to: request_1760464666.json
+[2025-10-14 23:27:46] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:27:46] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-14 23:43:31] 📝 Request data saved to: request_1760465611.json
+[2025-10-14 23:43:31] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-14 23:43:32] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-14 23:44:56] ============================================================
+[2025-10-14 23:44:56] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:44:56] ============================================================
+[2025-10-14 23:45:15] ============================================================
+[2025-10-14 23:45:15] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-14 23:45:15] ============================================================
+[2025-10-15 00:21:46] 📝 Request data saved to: request_1760467906.json
+[2025-10-15 00:21:46] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 00:21:46] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 00:30:41] 📝 Request data saved to: request_1760468441.json
+[2025-10-15 00:30:41] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 00:30:41] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 12:02:18] ============================================================
+[2025-10-15 12:02:18] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 12:02:18] ============================================================
+[2025-10-15 12:10:07] ============================================================
+[2025-10-15 12:10:07] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 12:10:07] ============================================================
+[2025-10-15 12:11:41] ============================================================
+[2025-10-15 12:11:41] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 12:11:41] ============================================================
+[2025-10-15 12:34:08] ============================================================
+[2025-10-15 12:34:08] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 12:34:08] ============================================================
+[2025-10-15 15:07:54] ============================================================
+[2025-10-15 15:07:54] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 15:07:54] ============================================================
+[2025-10-15 18:02:43] ============================================================
+[2025-10-15 18:02:43] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:02:43] ============================================================
+[2025-10-15 18:07:51] ============================================================
+[2025-10-15 18:07:51] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:07:51] ============================================================
+[2025-10-15 18:08:15] ============================================================
+[2025-10-15 18:08:15] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:08:15] ============================================================
+[2025-10-15 18:25:38] ============================================================
+[2025-10-15 18:25:38] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:25:38] ============================================================
+[2025-10-15 18:30:26] ============================================================
+[2025-10-15 18:30:26] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:30:26] ============================================================
+[2025-10-15 18:30:29] ============================================================
+[2025-10-15 18:30:29] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:30:29] ============================================================
+[2025-10-15 18:31:01] ============================================================
+[2025-10-15 18:31:01] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:31:01] ============================================================
+[2025-10-15 18:31:06] ============================================================
+[2025-10-15 18:31:06] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:31:06] ============================================================
+[2025-10-15 18:31:25] ============================================================
+[2025-10-15 18:31:25] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:31:25] ============================================================
+[2025-10-15 18:31:38] ============================================================
+[2025-10-15 18:31:38] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:31:38] ============================================================
+[2025-10-15 18:31:41] ============================================================
+[2025-10-15 18:31:41] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:31:41] ============================================================
+[2025-10-15 18:34:27] 📝 Request data saved to: request_1760533467.json
+[2025-10-15 18:34:27] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 18:34:29] ❌ Error creating initial record: null value in column "id" of relation "video_reels" violates not-null constraint
+DETAIL:  Failing row contains (BfPzSgijeDaJ0TVVeTTXVGQxdIu1, PROCESSING, Jii, data:image/jpeg;base64,/9j/4QBqRXhpZgAATU0AKgAAAAgABAEAAAQAAAABA..., data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhwAAASwCAYAAACw8J..., data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST..., null, mp4, 0.00, 0, veo-3.0-generate-001, 9:16, 0.0000, null, null, 2025-10-15 18:34:30.037, 2025-10-15 18:34:27.486, null, null).
+
+[2025-10-15 18:38:14] ============================================================
+[2025-10-15 18:38:14] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:38:14] ============================================================
+[2025-10-15 18:38:25] ============================================================
+[2025-10-15 18:38:25] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:38:25] ============================================================
+[2025-10-15 18:38:49] 📝 Request data saved to: request_1760533729.json
+[2025-10-15 18:38:49] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 18:38:49] ❌ Error creating initial record: null value in column "updated_at" of relation "video_reels" violates not-null constraint
+DETAIL:  Failing row contains (BfPzSgijeDaJ0TVVeTTXVGQxdIu1, PROCESSING, Jii, null, null, null, null, mp4, 0.00, 0, veo-3.0-generate-001, 9:16, 0.0000, null, null, 2025-10-15 18:38:52.041, null, null, 9d07639d-742b-429e-9b49-815315bc074d).
+
+[2025-10-15 18:39:19] ============================================================
+[2025-10-15 18:39:19] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 18:39:19] ============================================================
+[2025-10-15 18:39:33] 📝 Request data saved to: request_1760533773.json
+[2025-10-15 18:39:33] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 18:39:33] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 19:18:00] ============================================================
+[2025-10-15 19:18:00] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:18:00] ============================================================
+[2025-10-15 19:18:31] ============================================================
+[2025-10-15 19:18:31] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:18:31] ============================================================
+[2025-10-15 19:18:35] ============================================================
+[2025-10-15 19:18:35] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:18:35] ============================================================
+[2025-10-15 19:20:37] ❌ Error getting user videos: column "videoformat" does not exist
+LINE 2:             SELECT id, user_id, prompt, status, videoFormat,...
+                                                        ^
+HINT:  Perhaps you meant to reference the column "video_reels.videoFormat".
+
+[2025-10-15 19:32:08] ============================================================
+[2025-10-15 19:32:08] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:32:08] ============================================================
+[2025-10-15 19:32:19] ============================================================
+[2025-10-15 19:32:19] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:32:19] ============================================================
+[2025-10-15 19:32:33] ============================================================
+[2025-10-15 19:32:33] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:32:33] ============================================================
+[2025-10-15 19:32:35] 📝 Request data saved to: request_1760536955.json
+[2025-10-15 19:32:35] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:32:35] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 19:32:55] ============================================================
+[2025-10-15 19:32:55] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:32:55] ============================================================
+[2025-10-15 19:35:26] ============================================================
+[2025-10-15 19:35:26] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:35:26] ============================================================
+[2025-10-15 19:35:53] ============================================================
+[2025-10-15 19:35:53] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:35:53] ============================================================
+[2025-10-15 19:36:29] ============================================================
+[2025-10-15 19:36:29] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:36:29] ============================================================
+[2025-10-15 19:38:08] ============================================================
+[2025-10-15 19:38:08] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:38:08] ============================================================
+[2025-10-15 19:39:29] ============================================================
+[2025-10-15 19:39:29] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:39:29] ============================================================
+[2025-10-15 19:39:38] ============================================================
+[2025-10-15 19:39:38] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:39:38] ============================================================
+[2025-10-15 19:40:17] 📝 Request data saved to: request_1760537417.json
+[2025-10-15 19:40:17] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:40:17] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 19:41:38] 📝 Request data saved to: request_1760537498.json
+[2025-10-15 19:41:38] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:41:38] ❌ Error creating initial record: insert or update on table "video_reels" violates foreign key constraint "video_reels_user_id_fkey"
+DETAIL:  Key (user_id)=(BfPzSgijeDaJ0TVVeTTXVGQxdIu1) is not present in table "users".
+
+[2025-10-15 19:43:03] ============================================================
+[2025-10-15 19:43:03] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:43:03] ============================================================
+[2025-10-15 19:43:26] ============================================================
+[2025-10-15 19:43:26] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:43:26] ============================================================
+[2025-10-15 19:45:24] ============================================================
+[2025-10-15 19:45:24] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:45:24] ============================================================
+[2025-10-15 19:45:44] ============================================================
+[2025-10-15 19:45:44] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:45:44] ============================================================
+[2025-10-15 19:49:32] 📝 Request data saved to: request_1760537972.json
+[2025-10-15 19:49:32] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:49:32] ❌ Error checking user: column "firebase_uid" does not exist
+LINE 1: SELECT firebase_uid FROM users WHERE firebase_uid = 'BfPzSgi...
+               ^
+
+[2025-10-15 19:52:13] 📝 Request data saved to: request_1760538133.json
+[2025-10-15 19:52:13] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:52:13] ❌ Error checking user: column "firebase_uid" does not exist
+LINE 1: SELECT firebase_uid FROM users WHERE firebase_uid = 'BfPzSgi...
+               ^
+
+[2025-10-15 19:54:33] ============================================================
+[2025-10-15 19:54:33] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 19:54:33] ============================================================
+[2025-10-15 19:56:29] 📝 Request data saved to: request_1760538389.json
+[2025-10-15 19:56:29] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:56:29] 🚀 Background task started for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:56:29] 🎬 Background thread started for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:56:32] 🎬 Starting Veo 3 generation for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 19:56:32] 🎥 Processing scene 1/3...
+[2025-10-15 19:56:32] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-15 19:56:36] ⏳ Scene 1 polling... 10s
+[2025-10-15 19:56:47] ⏳ Scene 1 polling... 20s
+[2025-10-15 19:56:57] ⏳ Scene 1 polling... 30s
+[2025-10-15 19:57:08] ⏳ Scene 1 polling... 40s
+[2025-10-15 19:57:19] ⏳ Scene 1 polling... 50s
+[2025-10-15 19:57:29] ⏳ Scene 1 polling... 60s
+[2025-10-15 19:57:40] ⏳ Scene 1 polling... 70s
+[2025-10-15 19:57:53] ✅ Scene 1 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_1_1760538473.mp4
+[2025-10-15 19:57:53] 🎥 Processing scene 2/3...
+[2025-10-15 19:57:53] ⚙️  Generating scene 2 with Veo 3 Fast...
+[2025-10-15 19:57:55] ⏳ Scene 2 polling... 10s
+[2025-10-15 19:58:06] ⏳ Scene 2 polling... 20s
+[2025-10-15 19:58:16] ⏳ Scene 2 polling... 30s
+[2025-10-15 19:58:27] ⏳ Scene 2 polling... 40s
+[2025-10-15 19:58:37] ⏳ Scene 2 polling... 50s
+[2025-10-15 19:58:48] ⏳ Scene 2 polling... 60s
+[2025-10-15 19:58:59] ✅ Scene 2 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_2_1760538539.mp4
+[2025-10-15 19:58:59] 🎥 Processing scene 3/3...
+[2025-10-15 19:58:59] ⚙️  Generating scene 3 with Veo 3 Fast...
+[2025-10-15 19:59:01] ⏳ Scene 3 polling... 10s
+[2025-10-15 19:59:12] ⏳ Scene 3 polling... 20s
+[2025-10-15 19:59:22] ⏳ Scene 3 polling... 30s
+[2025-10-15 19:59:32] ⏳ Scene 3 polling... 40s
+[2025-10-15 19:59:43] ⏳ Scene 3 polling... 50s
+[2025-10-15 19:59:55] ✅ Scene 3 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_3_1760538595.mp4
+[2025-10-15 19:59:55] 🔗 Concatenating clips into final video...
+[2025-10-15 20:00:03] 🎉 Final video created: final_video_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_1760538598.mp4 (15.0s)
+[2025-10-15 20:00:08] ❌ Error saving video to database: column "videodata" of relation "video_reels" does not exist
+LINE 3:                 videoData = 'AAAAIGZ0eXBpc29tAAACAGlzb21pc28...
+                        ^
+
+[2025-10-15 20:00:08] ✅ Background task completed successfully for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:00:08] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_1_1760538389.jpg
+[2025-10-15 20:00:08] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_2_1760538389.jpg
+[2025-10-15 20:00:08] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_3_1760538389.jpg
+[2025-10-15 20:08:01] ============================================================
+[2025-10-15 20:08:01] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 20:08:01] ============================================================
+[2025-10-15 20:08:13] ============================================================
+[2025-10-15 20:08:13] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 20:08:13] ============================================================
+[2025-10-15 20:08:25] ============================================================
+[2025-10-15 20:08:25] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 20:08:25] ============================================================
+[2025-10-15 20:08:42] 📝 Request data saved to: request_1760539121.json
+[2025-10-15 20:08:42] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:08:42] 🎬 Background thread started for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:08:42] 🎬 Starting Veo 3 generation for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:08:42] 🎥 Processing scene 1/3...
+[2025-10-15 20:08:42] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-15 20:08:46] ⏳ Scene 1 polling... 10s
+[2025-10-15 20:08:57] ⏳ Scene 1 polling... 20s
+[2025-10-15 20:09:08] ⏳ Scene 1 polling... 30s
+[2025-10-15 20:09:18] ⏳ Scene 1 polling... 40s
+[2025-10-15 20:09:29] ⏳ Scene 1 polling... 50s
+[2025-10-15 20:09:40] ⏳ Scene 1 polling... 60s
+[2025-10-15 20:09:50] ⏳ Scene 1 polling... 70s
+[2025-10-15 20:10:01] ❌ Error in video generation: 'NoneType' object is not subscriptable
+[2025-10-15 20:10:01] ❌ Error updating video status: column "error_message" of relation "video_reels" does not exist
+LINE 4:                     error_message = '''NoneType'' object is ...
+                            ^
+
+[2025-10-15 20:10:01] ❌ Background task failed for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:10:01] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_1_1760539122.jpg
+[2025-10-15 20:10:01] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_2_1760539122.jpg
+[2025-10-15 20:10:01] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_3_1760539122.jpg
+[2025-10-15 20:23:37] 📝 Request data saved to: request_1760540017.json
+[2025-10-15 20:23:37] 📨 Request from user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:23:37] 🚀 Background task started for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+
+[2025-10-15 20:23:37] 🎬 Starting Veo 3 generation for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:23:37] 🎥 Processing scene 1/3...
+[2025-10-15 20:23:37] ⚙️  Generating scene 1 with Veo 3 Fast...
+[2025-10-15 20:23:40] ⏳ Scene 1 polling... 10s
+[2025-10-15 20:23:50] ⏳ Scene 1 polling... 20s
+[2025-10-15 20:24:01] ⏳ Scene 1 polling... 30s
+[2025-10-15 20:24:12] ⏳ Scene 1 polling... 40s
+[2025-10-15 20:24:22] ⏳ Scene 1 polling... 50s
+[2025-10-15 20:24:33] ⏳ Scene 1 polling... 60s
+[2025-10-15 20:24:47] ✅ Scene 1 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_1_1760540087.mp4
+[2025-10-15 20:24:47] 🎥 Processing scene 2/3...
+[2025-10-15 20:24:47] ⚙️  Generating scene 2 with Veo 3 Fast...
+[2025-10-15 20:24:50] ⏳ Scene 2 polling... 10s
+[2025-10-15 20:25:00] ⏳ Scene 2 polling... 20s
+[2025-10-15 20:25:11] ⏳ Scene 2 polling... 30s
+[2025-10-15 20:25:21] ⏳ Scene 2 polling... 40s
+[2025-10-15 20:25:31] ⏳ Scene 2 polling... 50s
+[2025-10-15 20:25:42] ⏳ Scene 2 polling... 60s
+[2025-10-15 20:25:54] ✅ Scene 2 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_2_1760540154.mp4
+[2025-10-15 20:25:54] 🎥 Processing scene 3/3...
+[2025-10-15 20:25:54] ⚙️  Generating scene 3 with Veo 3 Fast...
+[2025-10-15 20:25:56] ⏳ Scene 3 polling... 10s
+[2025-10-15 20:26:07] ⏳ Scene 3 polling... 20s
+[2025-10-15 20:26:17] ⏳ Scene 3 polling... 30s
+[2025-10-15 20:26:28] ⏳ Scene 3 polling... 40s
+[2025-10-15 20:26:39] ⏳ Scene 3 polling... 50s
+[2025-10-15 20:26:49] ⏳ Scene 3 polling... 60s
+[2025-10-15 20:27:02] ✅ Scene 3 completed: scene_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_3_1760540222.mp4
+[2025-10-15 20:27:02] 🔗 Concatenating clips into final video...
+[2025-10-15 20:27:10] 🎉 Final video created: final_video_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_1760540225.mp4 (15.0s)
+[2025-10-15 20:27:22] ✅ Video saved to database for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:27:22] 🗑️  Removed local video file: videos\final_video_BfPzSgijeDaJ0TVVeTTXVGQxdIu1_1760540225.mp4
+[2025-10-15 20:27:22] ✅ Background task completed successfully for user: BfPzSgijeDaJ0TVVeTTXVGQxdIu1
+[2025-10-15 20:27:22] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_1_1760540017.jpg
+[2025-10-15 20:27:22] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_2_1760540017.jpg
+[2025-10-15 20:27:22] 🗑️  Removed temp file: uploads\BfPzSgijeDaJ0TVVeTTXVGQxdIu1_img_3_1760540017.jpg
+[2025-10-15 20:31:51] ============================================================
+[2025-10-15 20:31:51] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 20:31:51] ============================================================
+[2025-10-15 20:35:53] ============================================================
+[2025-10-15 20:35:53] 🚀 SERVER STARTING - POSTGRESQL STORAGE
+[2025-10-15 20:35:53] ============================================================
