@@ -1,0 +1,16 @@
+{
+  "reel_id": "eeb6bb3a-59c6-4073-8a81-fabc15f8379d",
+  "user_id": "useerid1",
+  "prompt": "Professional branding video with smooth transitions",
+  "aspect_ratio": "9:16",
+  "location_id": null,
+  "status": "COMPLETED",
+  "model_used": "veo-3.0-generate-001",
+  "created_at": "2025-10-12T19:22:46.011381",
+  "updated_at": "2025-10-12T19:26:12.368201",
+  "video_path": "generated\\final_video_useerid1_1760277366.mp4",
+  "video_filename": "final_video_useerid1_1760277366.mp4",
+  "video_duration": 15.0,
+  "estimated_cost": 2.25,
+  "generation_time": "2025-10-12T19:26:12.365689"
+}
