@@ -176,35 +176,19 @@ def update_video_status_db(user_id, prompt, status, error_message=None):
 
         cursor = conn.cursor()
 
-        if status == 'FAILED':
-            cursor.execute("""
-                UPDATE video_reels SET
-                    status = %s,
-                    error_message = %s,
-                    updated_at = %s
-                WHERE user_id = %s 
-                AND prompt = %s
-                AND status = 'PROCESSING'
-                AND id = (
-                    SELECT id FROM video_reels
-                    WHERE user_id = %s AND prompt = %s AND status = 'PROCESSING'
-                    ORDER BY created_at DESC LIMIT 1
-                )
-            """, (status, error_message, datetime.now(), user_id, prompt, user_id, prompt))
-        else:
-            cursor.execute("""
-                UPDATE video_reels SET
-                    status = %s,
-                    updated_at = %s
-                WHERE user_id = %s
-                AND prompt = %s
-                AND status = 'PROCESSING'
-                AND id = (
-                    SELECT id FROM video_reels
-                    WHERE user_id = %s AND prompt = %s AND status = 'PROCESSING'
-                    ORDER BY created_at DESC LIMIT 1
-                )
-            """, (status, datetime.now(), user_id, prompt, user_id, prompt))
+        cursor.execute("""
+            UPDATE video_reels SET
+                status = %s,
+                updated_at = %s
+            WHERE user_id = %s
+            AND prompt = %s
+            AND status = 'PROCESSING'
+            AND id = (
+                SELECT id FROM video_reels
+                WHERE user_id = %s AND prompt = %s AND status = 'PROCESSING'
+                ORDER BY created_at DESC LIMIT 1
+            )
+        """, (status, datetime.now(), user_id, prompt, user_id, prompt))
 
         conn.commit()
         cursor.close()
@@ -343,7 +327,12 @@ def generate_video_veo3(api_key, images, prompt, aspect_ratio="9:16", user_id=""
             if not operation.done:
                 log_to_file(f"⏱️  Scene {idx+1} timeout")
                 continue
-            
+
+            # Check if response is valid before accessing generated_videos
+            if not operation.response or not operation.response.generated_videos:
+                log_to_file(f"❌ Scene {idx+1} failed: invalid response")
+                continue
+
             # Download video
             video = operation.response.generated_videos[0]
             client.files.download(file=video.video)
@@ -439,13 +428,13 @@ def background_video_generation(api_key, image_files, prompt, aspect_ratio, user
             log_to_file(f"✅ Background task completed successfully for user: {user_id}")
         else:
             # Update with failure
-            update_video_status_db(user_id, prompt, 'FAILED', result['error'])
+            update_video_status_db(user_id, prompt, 'FAILED')
             log_to_file(f"❌ Background task failed for user: {user_id}")
-            
+
     except Exception as e:
         error_msg = f"Background task exception: {str(e)}"
         log_to_file(error_msg)
-        update_video_status_db(user_id, prompt, 'FAILED', error_msg)
+        update_video_status_db(user_id, prompt, 'FAILED')
     finally:
         # Cleanup uploaded image files
         for img_file in image_files:
