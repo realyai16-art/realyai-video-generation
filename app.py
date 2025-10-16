@@ -30,7 +30,7 @@ UPLOAD_FOLDER = os.getenv('UPLOAD_FOLDER', 'uploads')
 VIDEO_FOLDER = os.getenv('VIDEO_FOLDER', 'generated')
 METADATA_FOLDER = os.getenv('METADATA_FOLDER', 'metadata')
 LOG_FILE = os.getenv('LOG_FILE', 'generation_log.txt')
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY') or os.getenv('GOOGLE_AI_API_KEY')
+GEMINI_API_KEY = "AIzaSyAWg2HFQ1td6Y6LUU816-KJbi5S6CL9iCk"
 
 # PostgreSQL Configuration
 DATABASE_URL = os.getenv('DATABASE_URL', "postgresql://realyai:Realyai@2025@34.135.55.17:5432/realyai")
