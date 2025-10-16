@@ -33,7 +33,7 @@ LOG_FILE = os.getenv('LOG_FILE', 'generation_log.txt')
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY') or os.getenv('GOOGLE_AI_API_KEY')
 
 # PostgreSQL Configuration
-DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://postgres:root123@192.168.0.113:5432/realyai?schema=public')
+DATABASE_URL = os.getenv('DATABASE_URL', "postgresql://realyai:Realyai@2025@34.135.55.17:5432/realyai")
 print(DATABASE_URL)
 # Parse database URL for configuration
 def get_db_config():
@@ -41,9 +41,9 @@ def get_db_config():
         parsed = urlparse(DATABASE_URL)
         return {
             'dbname': parsed.path.lstrip('/').split('?')[0] or 'realyai',
-            'user': parsed.username or 'postgres',
-            'password': parsed.password or 'root123',
-            'host': parsed.hostname or '172.22.66.252',
+            'user': parsed.username or 'realyai',
+            'password': parsed.password or 'Realyai@2025',
+            'host': parsed.hostname or '34.135.55.17',
             'port': parsed.port or 5432
         }
     else:
