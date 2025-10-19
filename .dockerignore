@@ -52,7 +52,6 @@ Thumbs.db
 # Project specific
 *.db
 *.sqlite3
-generation_log.txt
 uploads/
 generated/
 metadata/

@@ -78,9 +78,8 @@ except Exception as e:
 # Log function
 def log_to_file(message):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    with open(LOG_FILE, 'a', encoding='utf-8') as f:
-        f.write(f"[{timestamp}] {message}\n")
-    print(f"[{timestamp}] {message}")
+    log_message = f"[{timestamp}] {message}"
+    print(log_message, flush=True)  # flush=True ensures immediate output
 
 # Get database connection
 def get_db_connection():
